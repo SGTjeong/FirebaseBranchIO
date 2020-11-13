@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "125311230610",
+    "firebase_url": "https://fir-branchio.firebaseio.com",
+    "project_id": "fir-branchio",
+    "storage_bucket": "fir-branchio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125311230610:android:7b071d97bb7faf48b4bc4b",
+        "android_client_info": {
+          "package_name": "com.example.firebasebranchio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125311230610-5urd1ifhsln8q7l2ptafvbs2ehp14rc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasebranchio",
+            "certificate_hash": "904abc6fc10f5507c91a7c851a00fe82cb8d1e2c"
+          }
+        },
+        {
+          "client_id": "125311230610-h7n72gnt63f703r0d5ik3atsmhb79n67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-g_Fk7FaLE7ji4AYqcBN3yQ25JIGxagQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125311230610-h7n72gnt63f703r0d5ik3atsmhb79n67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
